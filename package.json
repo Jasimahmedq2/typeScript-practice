@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "start": "ts-node-dev --respawn --transpile-only src/module-4/inheritence.ts",
+    "start": "ts-node-dev --respawn --transpile-only src/practice_1/exploreString.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
